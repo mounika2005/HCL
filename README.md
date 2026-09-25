@@ -45,32 +45,3 @@
 <img width="1760" height="676" alt="image" src="https://github.com/user-attachments/assets/fb96091b-7d60-493b-8b01-ebefe56a7111" />
 
 
-### 7. Bank Transaction Analysis 
-
-## A bank stores transaction amounts for a customer's account. A continuous group of transactions may add up to a specific target amount. The auditing system needs to determine how many different continuous transaction groups produce exactly the specified amount. 
-
-<img width="1650" height="663" alt="image" src="https://github.com/user-attachments/assets/ea1f6b6b-befb-4534-b397-4807e60c64b3" />
-
-
-### 8. Employee Skill Grouping 
-
-## A company receives a list of employee skill codes represented as strings. Employees having the same set of characters in their skill codes belong to the same skill category, even if the characters appear in a different order. The HR system needs to organize employees into appropriate skill groups. 
-
-<img width="1622" height="565" alt="image" src="https://github.com/user-attachments/assets/34dc3870-ff95-465b-94b3-7576b337caa0" />
-
-
-### 9. Network Packet Analysis 
-
-## A network monitoring system receives packet identifiers in chronological order. The system must determine the longest sequence of consecutive packets whose identifiers form a continuous numerical sequence, regardless of their original order in the incoming data. 
-
-<img width="1347" height="686" alt="image" src="https://github.com/user-attachments/assets/dba25091-ff37-49bf-bf16-5f7b3010a897" />
-
-
-### 10. Hospital Appointment Scheduling 
-
-## A hospital receives appointment requests represented by starting and ending times. Some appointments overlap with each other. The scheduling system needs to combine overlapping appointment periods so that the final schedule contains only non-overlapping time ranges. 
-
-
-<img width="1655" height="672" alt="image" src="https://github.com/user-attachments/assets/e7afaa0f-77e8-48b9-963c-fee4813f82e1" />
-
- 
